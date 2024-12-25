@@ -1,8 +1,8 @@
-
 To Be Completed
-task 1: 
+  
     Buy groceries
-    deadline: 1 Jan 2025
-
+    1 Jan 2025
+    
 Completed
-1.Buy books 
+    1.Buy books
+
